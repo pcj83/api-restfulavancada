@@ -22,7 +22,7 @@ import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import com.i9sites.com.pontointeligente.api.enums.PerfilEnum;
+import com.i9sites.pontointeligente.api.enums.PerfilEnum;
 
 
 @Entity

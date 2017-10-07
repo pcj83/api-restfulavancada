@@ -18,7 +18,7 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import com.i9sites.com.pontointeligente.api.enums.TipoEnum;
+import com.i9sites.pontointeligente.api.enums.TipoEnum;
 
 
 @Entity
